@@ -25,12 +25,12 @@ module.exports = {
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/Vagr9K",
+      url: "https://twitter.com/fajarnuha",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Email",
-      url: "mailto:vagr9k@gmail.com",
+      url: "mailto:fajarunuha@gmail.com",
       iconClassName: "fa fa-envelope"
     }
   ],

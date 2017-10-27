@@ -22,12 +22,13 @@ function GetNavList(config, contentList) {
       if(content.node.relativePath === "" || content.node.relativeDirectory !== "" || content.node.name === "guides") {
         return;
       }
+      const label = _.startCase(content.node.name.replace("-", " "));
       if(content.node)
       NavList.push({
-        primaryText: content.node.name,
+        primaryText: label,
         leftIcon: null,
         component: "a",
-        href: _.kebabCase(content.node.relativePath)
+        href: content.node.relativePath
       })
     })
   }
