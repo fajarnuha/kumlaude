@@ -19,7 +19,7 @@ function GetNavList(config, contentList) {
 
   if (contentList) {
     contentList.forEach(content => {
-      if(content.node.relativePath === "" || content.node.relativeDirectory !== "") {
+      if(content.node.relativePath === "" || content.node.relativeDirectory !== "" || content.node.name === "guides") {
         return;
       }
       if(content.node)
@@ -46,7 +46,12 @@ function GetNavList(config, contentList) {
   }
 
   NavList.push({ divider: true });
-
+  NavList.push({
+    primaryText: "Contribute",
+    leftIcon: <FontIcon>extension</FontIcon>,
+    component: Link,
+    to: "/guides/"
+  });
   NavList.push({
     primaryText: "About",
     leftIcon: <FontIcon>person</FontIcon>,
