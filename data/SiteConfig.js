@@ -15,8 +15,7 @@ module.exports = {
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "North Pole, Earth", // User location to display in the author segment.
   userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
-  userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+  userDescription: "Website ini memberikan segala informasi yang harapannya akan membantu kamu untuk menjadi cumlaude ilmu komputer. Informasi yang ada di website ini adalah kumpulan kontribusi mahasiswa-mahasiswa ilmu komputer yang di evaluasi oleh orang-orang terpercaya. Secara umum website ini memberikan informasi berdasarkan mata kuliah yang ada di ilkomp, di dalamnya, terdapat catatan, uts, uas, dan mungkin tips-tips terselubung!. Selamat belajar!", 
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {

@@ -6,8 +6,6 @@ import Avatar from "react-md/lib/Avatars";
 import CardText from "react-md/lib/Cards/CardText";
 import FontIcon from "react-md/lib/FontIcons";
 import Link from "gatsby-link";
-import Media, { MediaOverlay } from "react-md/lib/Media";
-import PostTags from "../PostTags/PostTags";
 import "./PostPreview.scss";
 
 class PostPreview extends Component {
@@ -36,43 +34,27 @@ class PostPreview extends Component {
   }
   render() {
     const { postInfo } = this.props;
-    const { mobile } = this.state;
-    const expand = mobile;
-    /* eslint no-undef: "off"*/
-    const cover = postInfo.cover.startsWith("/")
-      ? __PATH_PREFIX__ + postInfo.cover
-      : postInfo.cover;
-    const coverHeight = mobile ? 162 : 225;
     return (
-      <Card key={postInfo.path} raise className="md-grid md-cell md-cell--12">
+      <Card key={postInfo.path} raise className="md-grid md-cell md-cell--4">
         <Link style={{ textDecoration: "none" }} to={postInfo.path}>
-          <Media
-            style={{
-              backgroundImage: `url(${cover})`,
-              height: `${coverHeight}px`
-            }}
-            className="post-preview-cover"
-          >
-            <MediaOverlay>
-              <CardTitle title={postInfo.title}>
-                <Button raised secondary className="md-cell--right">
-                  Read
-                </Button>
-              </CardTitle>
-            </MediaOverlay>
-          </Media>
+          <CardTitle
+            title={postInfo.title}
+            style={{height: "75px"}}
+          />
         </Link>
         <CardTitle
-          expander={expand}
+          expander
           avatar={<Avatar icon={<FontIcon iconClassName="fa fa-calendar" />} />}
           title={`Published on ${postInfo.date}`}
           subtitle={`${postInfo.timeToRead} min read`}
         />
 
-        <CardText expandable={expand}>
+        <CardText expandable className="excerpt">
           {postInfo.excerpt}
-          <PostTags tags={postInfo.tags} />
         </CardText>
+        <Link style={{ textDecoration: "none" }} to={postInfo.path}>
+          <Button className="preview-button" flat primary swapTheming>read</Button>
+        </Link>
       </Card>
     );
   }

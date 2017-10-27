@@ -56,7 +56,7 @@ export default class MainLayout extends React.Component {
   }
 }
 
-export const dirQuery = graphql`
+export const pageQuery = graphql`
   query dirQuery {
     allDirectory {
       edges {

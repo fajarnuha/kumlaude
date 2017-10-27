@@ -1,7 +1,7 @@
 .about-wrapper {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    padding: 36px;
 
     .about-img {
         border-radius: 50%;
@@ -16,7 +16,7 @@
 
     .about-text {
         max-width: 640px;
-        margin: 20px 0 !important;
+        margin: 16px 0 !important;
 
         @media (max-width: 360px - 1px) {
             margin: 5px 0 !important;
