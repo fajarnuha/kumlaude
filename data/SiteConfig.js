@@ -34,5 +34,14 @@ module.exports = {
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2017. Material User" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2017. Material User", // Copyright string for the footer of the website and RSS feed.
+  developers: [
+    {
+      login: "Fajar",
+      contributions: "Developer",
+      html_url: "https://www.linkedin.com/in/fajar-ulin-nuha-3b44a3104/",
+      avatar_url: "https://avatars3.githubusercontent.com/u/15099703?v=4"
+    }
+  ]
+
 };

@@ -1,13 +1,10 @@
-.grid-example {
-    max-width: 640px;
+.text-container {
+    padding: 24px 12px;
+}
+
+.mission-text {
+    font-size: 1.5em;
+    max-width: 450px;
     margin: 0 auto;
-}
-
-.prof-info {
-    display: inline-block;
-}
-
-.avatar-img {
-    height: 72px;
-    width: 72px;
+    font-style: italic;
 }
