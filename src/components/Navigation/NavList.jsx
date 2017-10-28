@@ -27,8 +27,8 @@ function GetNavList(config, contentList) {
       NavList.push({
         primaryText: label,
         leftIcon: null,
-        component: "a",
-        href: content.node.relativePath
+        component: Link,
+        href: `/${content.node.relativePath}/`
       })
     })
   }
