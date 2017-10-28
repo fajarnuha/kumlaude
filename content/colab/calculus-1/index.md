@@ -1,6 +1,6 @@
 ---
 title: "Calculus I"
-cover: "http://dennydio.staf.akprind.ac.id/wp/wp-content/uploads/2017/09/images.png"
+cover: "https://i.imgur.com/FTcnS0G.gifv"
 ---
 This is a stub. Help our community expand it.
 
