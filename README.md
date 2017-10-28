@@ -1,177 +1,61 @@
-[![Code Climate](https://codeclimate.com/github/Vagr9K/gatsby-material-starter/badges/gpa.svg)](https://codeclimate.com/github/Vagr9K/gatsby-material-starter)
-[![Issue Count](https://codeclimate.com/github/Vagr9K/gatsby-material-starter/badges/issue_count.svg)](https://codeclimate.com/github/Vagr9K/gatsby-material-starter)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/990fb54ea8094f2aa0ed77f14e859820)](https://www.codacy.com/app/Vagr9K/gatsby-material-starter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vagr9K/gatsby-material-starter&amp;utm_campaign=Badge_Grade)
-<div align="center">
-    <img src="docs/logo.png" alt="Logo" width='200px' height='200px'/>
-</div>
+---
+title: "Contribution Guide"
+cover: "https://cdn.pixabay.com/photo/2017/05/02/03/41/action-2277292_640.jpg"
 
-# Gatsby Material Starter
-A blog starter with Material design in mind for [Gatsby](https://github.com/gatsbyjs/gatsby/).
+date: "18/07/2017"
+---
 
-[Demo website.](https://vagr9k.github.io/gatsby-material-starter/)
+## Kumlaude?
+> Kumlaude adalah project open source untuk mahasiswa ilmu komputer ugm, berisi materi-materi belajar yang bersangkutan dengan ilmu komputer. Website dari repo ini adalah https://fajarnuha.github.io/kumlaude
+<hr>
 
-![Screenshot](docs/screenshot.png)
+## Konten 
+Semua konten-konten disini adalah hasil kolaborasi penulisan mahasiswa-mahasiswa ilmu komputer. Semua orang bisa mengajukan usulan penulisan dengan pull-request(PR), dan akan di review oleh evaluator repository ini, jika kiranya bermanfaat, usulan akan diterima dan di publish ke website Kumlaude
 
-## GatsbyJS V1
+Konten bisa berisi tulisan, gambar, links, video, tips-trick, review dosen, info ujian, code, atau apapun asal bermanfaat
 
-This starter is based on GatsbyJS V1, which brings progressive web app features such as automatic code and data splitting (by route), prefetching, with service worker/offline-first support and PRPL pattern.
+Konten tidak harus yang panjang dan ribet. Hanya 1-2 baris boleh asalkan bermanfaat. Tidak usah takut salah, project ini open source, jadi kalau salah ntar akan ada orang yang benerin
 
-More information in the [announcement](https://www.gatsbyjs.org/blog/gatsby-first-beta-release/).
+Kamu boleh nambah tulisan di artikel yang sudah ada, atau bisa juga buat konten/folder/topic jika belum ada. Tinggal PR aja!
+<hr>
 
-## Features
+## Siapa yang boleh kontribusi?
+Semua orang, tapi ada 4 kategori orang di project ini:
+1. User : semua mahasiswa ilmu komputer yang ingin belajar biar cumlaude
+2. Content Contributor : semua mahasiswa yang ingin menulis hal yg bermanfaat disini
+3. Developer Contributor : mahasiswa yang ingin membuat website ini berjalan dan beraparas lebih keren
+4. Evaluator : mahasiswa yang ingin mengevaluasi PR
 
-* Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
-* [React-MD](https://github.com/mlaursen/react-md) for Material design
-  * Integrated FontAwesome support
-  * Integrated Material Icons support
-* SASS/SCSS styling
-* Separate components for everything
-* High configurability:
-  * User information
-  * User social profiles
-  * Copyright information
-  * More!
-* Author segment
-  * Name
-  * Location
-  * Description
-  * Links
-  * Follow Me button
-* Posts in Markdown
-  * Code syntax highlighting
-  * Embedded YouTube videos
-  * Embedded Tweets
-* Tags
-  * Seprate page for posts under each tag
-* Categories
-  * Separate page for posts under each category
-* Suggested posts segment
-* Disqus support
-  * Notifications about new disqus comments
-* Google Analytics support
-* Responsive design
-  * On mobile, Disqus is loaded only after expanding comments for better performance
-* Social features
-  * Twitter tweet button
-  * Facebook share/share count
-  * Reddit share/share count
-  * Google+ share button
-  * LinkedIn share button
-  * Telegram share button
-* SEO
-  * Sitemap generation
-  * robots.txt
-  * General description tags
-  * Schema.org JSONLD (Google Rich Snippets)
-  * OpenGraph Tags (Facebook/Google+/Pinterest)
-  * Twitter Tags (Twitter Cards)
-* RSS feeds
-* Loading progress for slow networks
-* Offline support
-* Web App Manifest support
-* Development tools
-  * ESLint for linting
-  * Prettier for code style
-  * Remark-Lint for linting Markdown
-  * write-good for linting English prose
-  * gh-pages for deploying to GitHub pages
-  * CodeClimate configuration file and badge
+<hr>
 
-NOTE: Take a look at [gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) if you prefer building UI from scratch and/or only interested in fundamental features.
+## Cara Kontribusi Konten
+Konten-konten di kumlaude, termasuk guide ini, berupa file-file [markdown](https://en.wikipedia.org/wiki/Markdown) yang notabene mirip txt biasa tp lebih canggih.
 
-You can also visit [my personal blog](https://vagr9k.me) if you want to see a fully implemented blog based on this starter.
+Jadi belajar trik-trik markdown dulu boleh biar kontennya makin apik. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+Sebelumnya, kalau kamu ini di website, pergi dulu ke [Github](http://github.com/fajarnuha/kumlaude) nya
 
-![Article Screenshot](docs/screenshot-article.png)
-![Mobile Screenshot](docs/screenshot-mobile.png)
+Ada 2 cara kontribusi:<br>
+**Gampang**
+1. Pergi ke `colab` di repo kumlaude, cari artikel yang ingin ditulis atau diedit. Biasanya filenya namanya index.md di tiap topic folder
+2. Click icon pensil "Edit this file" dan buat changes dalam file di Github-flavored Markdown
+3. Scroll kebawah dan tambahkan commit message yang menerangkan changes kamu. Kemudian pilih "Create a new branch for this commit and start a pull-request", kemudian pilih "Propose file changes"
+4. Kemudian, kamu bisa tambahkan detail lainnya, lalu "Create pull request"
+<br><br>
 
-## Getting Started
+![Gif contoh dari project serupa freeCodeCamp](https://i.imgur.com/0cmxJwN.gif)
 
-Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed) by running from your CLI:
+**Developer Way**
+1. Fork repo
+2. clone repo ke local dengan command `git clone https://github.com/YOUR-GITHUB-USERNAME/kumlaude.git`
+3. Tambah remote upstream `git remote add upstream https://github.com/fajarnuha/kumlaude.git`
+4. Buat branch baru untuk kerjaanmu dengan `git checkout -b NEW-BRANCH-NAME`. Kasih nama yang logis
+5. Commit changes di lokal dulu dengan `git commit -m "SHORT MESSAGE"`. Push ke remote `git push origin NEW-BRANCH-NAME`
+6. Ke repo kamu di Github terus open PR
 
-```sh
-gatsby new YourProjectName https://github.com/Vagr9K/gatsby-material-starter
-npm run serve
-```
+<hr>
+## Rewards
+> Pahala pasti, karena ini termasuk amalan *ilmu yang bermanfaat* (setiap kali dibaca orang lain). Project ini adalah sekedar hobi dan tidak menghasilkan uang, jadi jangan berharap uang. However, evaluator dan top contributor akan ada di halaman [About](https://fajarnuha.github.io/kumlaude/about). Jadi berlomba-lombalah!
+<hr>
 
-Or you can fork the project, make your changes there and merge new features when needed.
-
-Alternatively:
-
-```sh
-git clone https://github.com/Vagr9K/gatsby-material-starter YourProjectName # Clone the project
-cd YourProjectname
-rm -rf .git # So you can have your own changes stored in VCS.
-npm install # or yarn
-npm run serve
-```
-
-## Configuration
-
- Edit the export object in `data/SiteConfig`:
-
- ```js
-module.exports = {
-  blogPostDir: 'sample-posts', // The name of directory that contains your posts.
-  siteTitle: 'Gatsby Material Starter', // Site title.
-  siteTitleAlt: 'GatsbyJS Material Starter', // Alternative site title for SEO.
-  siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://vagr9k.github.io', // Domain of your website without pathPrefix.
-  pathPrefix: '/gatsby-material-starter', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  siteDescription: 'A GatsbyJS stater with Material design in mind.', // Website description used for RSS feeds/meta description tag.
-  siteRss: '/rss.xml', // Path to the RSS file.
-  siteFBAppID: '1825356251115265', // FB Application ID for using app insights
-  siteGATrackingID: 'UA-47311644-4', // Tracking code ID for google analytics.
-  disqusShortname: 'https-vagr9k-github-io-gatsby-material-starter', // Disqus shortname.
-  postDefaultCategoryID: 'Tech', // Default category for posts.
-  userName: 'Material User', // Username to display in the author segment.
-  userTwitter: '', // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: 'North Pole, Earth', // User location to display in the author segment.
-  userAvatar: 'https://api.adorable.io/avatars/150/test.png', // User avatar to display in the author segment.
-  userDescription: "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
-  // Links to social profiles/projects you want to display in the author segment/navigation bar.
-  userLinks: [
-    {
-      label: 'GitHub',
-      url: 'https://github.com/Vagr9K/gatsby-material-starter',
-      iconClassName: 'fa fa-github',
-    },
-    {
-      label: 'Twitter',
-      url: 'https://twitter.com/Vagr9K',
-      iconClassName: 'fa fa-twitter',
-    },
-    {
-      label: 'Email',
-      url: 'mailto:vagr9k@gmail.com',
-      iconClassName: 'fa fa-envelope',
-    },
-  ],
-  copyright: 'Copyright © 2017. Material User', // Copyright string for the footer of the website and RSS feed.
-
-};
- ```
-
- You can also optionally set `pathPrefix`:
- ```js
- module.exports = {
-  // Note: it must *not* have a trailing slash.
-       pathPrefix: '/gatsby-material-starter', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-}
-
- ```
-
- NOTE: `user*`, `disqusShortname` and `copyright` are optional and won't render if omitted.
-
- WARNING: Make sure to edit `static/robots.txt` to include your domain for the sitemap!
-
-## Theming
-
-Edit `src/layouts/theme.scss` to suit your needs.
-You can use [Material color palette](https://react-md.mlaursen.com/customization/colors) provided by React-MD.
-
-```css
-@import '~react-md/src/scss/react-md';
-$md-primary-color: $md-grey-400;
-$md-secondary-color: $md-red-800;
-$md-tertiary-color: $md-grey-300;
-```
+## Content Style Guide
+*masih on progress, jadi belum ada aturan aneh-aneh, yang penting website ini terisi dulu*

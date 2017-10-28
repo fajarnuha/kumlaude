@@ -8,8 +8,8 @@ class PostCover extends Component {
     /* eslint no-undef: "off"*/
     if (!post) post = "https://picsum.photos/400/300/?random";
     const cover = post.startsWith("/")
-      ? __PATH_PREFIX__ + post.cover
-      : post.cover;
+      ? __PATH_PREFIX__ + post
+      : post;
     const coverHeight = mobile ? 180 : 350;
     return (
       <div
