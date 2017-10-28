@@ -3,3 +3,10 @@ node_js:
   - "6"
 script:
   - npm run build:gh
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN 
+  on:
+    branch: master
+  local_dir: public
