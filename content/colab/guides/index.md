@@ -4,6 +4,7 @@ cover: "/img/colaboraion.jpg"
 
 date: "18/07/2017"
 ---
+## Wanna be evaluator/developer? contact me! 
 
 ## Kumlaude?
 > Kumlaude adalah project open source untuk mahasiswa ilmu komputer ugm, berisi materi-materi belajar yang bersangkutan dengan ilmu komputer. Website dari repo ini adalah https://fajarnuha.github.io/kumlaude
