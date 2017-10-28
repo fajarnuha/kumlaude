@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Card, CardTitle, CardText } from 'react-md/lib/Cards';
 import { Media } from 'react-md/lib'
 import Link from "gatsby-link";
-import "./About.scss";
+import "./Home.scss";
 
 
 class About extends Component {

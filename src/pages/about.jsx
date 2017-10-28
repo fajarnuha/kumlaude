@@ -16,7 +16,7 @@ class AboutPage extends Component {
   }
 
   componentDidMount() {
-    axios.get(`https://api.github.com/repos/freeCodeCamp/guides/contributors?page=1&per_page=12`)
+    axios.get(`https://api.github.com/repos/fajarnuha/kumlaude/contributors?page=1&per_page=12`)
       .then(res => {
         console.log(res.data)
         const contribs = res.data;

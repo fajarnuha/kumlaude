@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import PostListing from "../components/PostListing/PostListing";
 import config from "../../data/SiteConfig";
-import About from "../components/About/About";
+import Home from "../components/Home/Home";
 
 class Index extends React.Component {
   render() {
@@ -13,7 +13,7 @@ class Index extends React.Component {
           <title>{config.siteTitle}</title>
           <link rel="canonical" href={`${config.siteUrl}`} />
         </Helmet>
-        <About />
+        <Home />
         <PostListing postEdges={postEdges} />
       </div>
     );
