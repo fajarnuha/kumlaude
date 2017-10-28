@@ -4,9 +4,10 @@ import "./PostCover.scss";
 class PostCover extends Component {
   render() {
     const { postNode, mobile } = this.props;
-    const post = postNode.frontmatter;
+    let post = postNode.frontmatter.cover;
     /* eslint no-undef: "off"*/
-    const cover = post.cover.startsWith("/")
+    if (!post) post = "https://picsum.photos/400/300/?random";
+    const cover = post.startsWith("/")
       ? __PATH_PREFIX__ + post.cover
       : post.cover;
     const coverHeight = mobile ? 180 : 350;
