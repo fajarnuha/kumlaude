@@ -1,8 +1,6 @@
 ---
 title: "Contribution Guide"
 cover: "/img/colaboraion.jpg"
-
-date: "18/07/2017"
 ---
 ## Wanna be evaluator/developer? contact me! 
 
