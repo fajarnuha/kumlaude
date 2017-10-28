@@ -1,7 +1,7 @@
 {
   "name": "Kumlaude",
   "description": "Kumlaude Ilkomp UGM",
-  "version": "0.9",
+  "version": "1.0.0",
   "author": "Fajar Ulin Nuha <fajarunuha@gmail.com>",
   "dependencies": {
     "axios": "^0.17.0",
