@@ -13,14 +13,16 @@ class About extends Component {
             <CardTitle title="Kumlaude" subtitle="Your weapon to become S.Kom. cumlaude" />
             <CardText>
               <p className="about-text md-body-1">
-                Website ini memberikan segala informasi yang harapannya akan membantu kamu untuk menjadi cumlaude ilmu komputer. 
+                Website ini memberikan segala informasi yang harapannya akan membantu mahasiswa ilkomp untuk meraih gelar cumlaude ilmu komputer. 
                 Informasi yang ada di website ini adalah kumpulan kontribusi mahasiswa-mahasiswa ilmu komputer yang dievaluasi oleh orang-orang terpercaya. 
                 Secara umum website ini memberikan informasi berdasarkan mata kuliah yang ada di ilkomp, di dalamnya, terdapat catatan, uts, uas, dan mungkin tips-tips terselubung!. 
                 Selamat belajar!
               </p>
               <h3>Contribute</h3>
               <p>
-                Website ini beserta konten-konten nya adalah open source. Semua orang bisa berkontribusi untuk membuat website ini lebih bermanfaat. See contribution guide <Link to={"/guides"}>here.</Link>
+                Kumlaude beserta konten-konten nya adalah open source. 
+                Semua orang bisa berkontribusi untuk membuat website ini lebih bermanfaat. 
+                See contribution guide <Link to={"/guides"}>here.</Link>
               </p>
             </CardText>
           </div>

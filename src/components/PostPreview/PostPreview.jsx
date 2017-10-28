@@ -39,7 +39,7 @@ class PostPreview extends Component {
         <Link style={{ textDecoration: "none" }} to={postInfo.path}>
           <CardTitle
             title={postInfo.title}
-            style={{height: "75px"}}
+            style={{height: "72px"}}
           />
         </Link>
         <CardTitle
