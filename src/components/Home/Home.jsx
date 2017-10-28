@@ -14,7 +14,7 @@ class About extends Component {
             <CardTitle title="Kumlaude" subtitle="Kumpulan materi open source belajar Ilmu Komputer" />
             <CardText>
               <Media style={{maxWidth: 600}}>
-                <img alt="cumlaude" src="/logos/cumlaude.jpg" />
+                <img alt="cumlaude" src="img/cumlaude.jpg" />
               </Media> 
               <p className="about-text md-body-1">
                 Website ini memberikan segala informasi yang harapannya akan membantu mahasiswa ilkomp untuk meraih gelar cumlaude ilmu komputer. 

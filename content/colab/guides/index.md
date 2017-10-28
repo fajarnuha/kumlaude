@@ -1,6 +1,6 @@
 ---
 title: "Contribution Guide"
-cover: "https://cdn.pixabay.com/photo/2017/05/02/03/41/action-2277292_640.jpg"
+cover: "/img/colaboraion.jpg"
 
 date: "18/07/2017"
 ---

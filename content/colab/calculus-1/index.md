@@ -1,14 +1,6 @@
 ---
 title: "Introducing Gatsby Material Starter"
-cover: "/logos/logo-1024.png"
-category: "gatsby"
-tags:
-
-    - gatsby
-    - material
-    - starter
-
-date: "18/07/2017"
+cover: "/img/math.jpg"
 ---
 
 Not so long ago, this project got ported to v1 version of GatsbyJS.
