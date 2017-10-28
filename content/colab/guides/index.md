@@ -42,7 +42,7 @@ Ada 2 cara kontribusi:<br>
 4. Kemudian, kamu bisa tambahkan detail lainnya, lalu "Create pull request"
 <br><br>
 
-![Gif contoh dari project serupa freeCodeCamp](https://i.imgur.com/0cmxJwN.gif)
+[![Gif contoh dari project serupa freeCodeCamp](https://i.imgur.com/0cmxJwN.gif)](https://i.imgur.com/0cmxJwN.gif)
 
 **Developer Way**
 1. Fork repo
