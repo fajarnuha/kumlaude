@@ -9,7 +9,7 @@ class About extends Component {
   render() {
     return (
       <div className="about-container md-grid mobile-fix">
-        <Card className="md-grid md-cell--8">
+        <Card className="md-grid md-cell--6">
           <div className="about-wrapper">
             <CardTitle title="Kumlaude" subtitle="Kumpulan materi open source belajar Ilmu Komputer" />
             <CardText>
