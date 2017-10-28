@@ -71,7 +71,7 @@ Supaya pull request kamu diterima, coba perhatikan hal berikut:
 contoh `index.md` di folder kalkulus-1 dengan cover
 ```
 ---
-title: "Kalkulus 1"
+title: "Calculus 1"
 cover: "http://dennydio.staf.akprind.ac.id/wp/wp-content/uploads/2017/09/images.png"
 ---
 ```

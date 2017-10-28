@@ -1,7 +1,7 @@
 ---
-title: "The Fallen Time"
-cover: "/img/fractal.jpg"
+title: "Tips & Trik Ilkomp"
 ---
+
 This is a stub. Help our community expand it.
 
 [Github](https://github.com/fajarnuha/kumlaude)

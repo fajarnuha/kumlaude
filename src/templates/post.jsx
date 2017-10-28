@@ -92,9 +92,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         cover
-        date
-        category
-        tags
       }
       fields {
         nextTitle
