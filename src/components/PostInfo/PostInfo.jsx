@@ -20,7 +20,7 @@ class PostInfo extends Component {
           childDir.map(dir => 
             (<Link
               className="category-link"
-              to={`${dir.node.relativeDirectory  }/${  dir.node.name}`}
+              to={`/${dir.node.relativeDirectory  }/${  dir.node.name}`}
             >
               <CardTitle
                 avatar={
@@ -36,7 +36,7 @@ class PostInfo extends Component {
           childFile.map(file=>
             (<Link
               className="category-link"
-              to={`${file.node.relativeDirectory  }/${  file.node.name}`}
+              to={`/${file.node.relativeDirectory  }/${  file.node.name}`}
             >
               <CardTitle
                 avatar={
