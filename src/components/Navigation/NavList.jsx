@@ -28,7 +28,7 @@ function GetNavList(config, contentList) {
         primaryText: label,
         leftIcon: null,
         component: Link,
-        href: `/${content.node.relativePath}/`
+        to: `/${content.node.relativePath}/`
       })
     })
   }
