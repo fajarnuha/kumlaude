@@ -1,5 +1,5 @@
 ---
-title: "The Fallen Time"
+title: "Fuzzy Logic"
 cover: "/img/fractal.jpg"
 ---
 This is a stub. Help our community expand it.
