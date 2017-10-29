@@ -30,12 +30,13 @@ Semua orang, tapi ada 4 kategori orang di project ini:
 ## Cara Kontribusi Konten
 Konten-konten di kumlaude, termasuk guide ini, berupa file-file [markdown](https://en.wikipedia.org/wiki/Markdown) yang notabene mirip txt biasa tp lebih canggih.
 
-Jadi belajar trik-trik markdown dulu boleh biar kontennya makin apik. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+Jadi belajar trik-trik markdown dulu biar kontennya makin apik. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+
 Sebelumnya, kalau kamu ini di website, pergi dulu ke [Github](http://github.com/fajarnuha/kumlaude) nya
 
 Ada 2 cara kontribusi:<br>
 **Gampang**
-1. Pergi ke `content/colab` di repo kumlaude, cari artikel yang ingin ditulis atau diedit. Biasanya filenya namanya index.md di tiap topic folder
+1. Pergi ke `content/colab` di repo kumlaude, cari artikel yang ingin ditulis atau diedit. Biasanya nama filenya index.md di tiap topic folder
 2. Click icon pensil "Edit this file" dan buat changes dalam file di Github-flavored Markdown
 3. Scroll kebawah dan tambahkan commit message yang menerangkan changes kamu. Kemudian pilih "Create a new branch for this commit and start a pull-request", kemudian pilih "Propose file changes"
 4. Kemudian, kamu bisa tambahkan detail lainnya, lalu "Create pull request"
@@ -83,9 +84,4 @@ cover: "http://dennydio.staf.akprind.ac.id/wp/wp-content/uploads/2017/09/images.
 ## Developer Guide
 You are more than welcome to make this site better/prettier
 
-Tech used FYI: 
-- React -> GatsbyJS
-- SCSS
-- GraphQL
-- Travis CI
 
