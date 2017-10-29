@@ -1,8 +1,6 @@
 ---
 title: "Contribution Guide"
-cover: "/img/colaboraion.jpg"
-
-date: "18/07/2017"
+cover: "/img/colaboration.jpg"
 ---
 ## Wanna be evaluator/developer? contact me! 
 
@@ -80,3 +78,14 @@ cover: "http://dennydio.staf.akprind.ac.id/wp/wp-content/uploads/2017/09/images.
 ### Folder
 1. Mewakili kategori yang bersangkutan.
 2. Nama folder harus mengikuti skema `kebab-case`
+<hr>
+
+## Developer Guide
+You are more than welcome to make this site better/prettier
+
+Tech used FYI: 
+- React -> GatsbyJS
+- SCSS
+- GraphQL
+- Travis CI
+
