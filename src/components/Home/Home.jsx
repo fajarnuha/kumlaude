@@ -11,7 +11,7 @@ class About extends Component {
       <div className="about-container md-grid mobile-fix">
         <Card className="md-grid md-cell--6">
           <div className="about-wrapper">
-            <CardTitle title="Kumlaude" subtitle="Kumpulan materi open source belajar Ilmu Komputer" />
+            <CardTitle title="Kumlaude" subtitle="Kumpulan materi open source Ilmu Komputer" />
             <CardText>
               <Media style={{maxWidth: 600}}>
                 <img alt="cumlaude" src="img/cumlaude.jpg" />
