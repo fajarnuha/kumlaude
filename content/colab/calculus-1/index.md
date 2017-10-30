@@ -1,6 +1,6 @@
 ---
 title: "Calculus I"
-cover: "https://i.imgur.com/FTcnS0G.gifv"
+cover: "https://i.imgur.com/0zZeEZv.jpg"
 ---
 This is a stub. Help our community expand it.
 
