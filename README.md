@@ -51,13 +51,14 @@ Ada 2 cara kontribusi:<br>
 4. Buat branch baru untuk kerjaanmu dengan `git checkout -b NEW-BRANCH-NAME`. Kasih nama yang logis
 5. Commit changes di lokal dulu dengan `git commit -m "SHORT MESSAGE"`. Push ke remote `git push origin NEW-BRANCH-NAME`
 6. Ke repo kamu di Github terus open PR
+7. Lihat [issues](https://github.com/fajarnuha/kumlaude/issues) di Github jika ingin contribute code
 
 more on [Pull Request](https://github.com/Roshanjossey/first-contributions)
 
 <hr>
 
 ## Rewards
-> Pahala pasti, karena ini termasuk amalan *ilmu yang bermanfaat* (setiap kali dibaca orang lain). Project ini adalah sekedar hobi dan tidak menghasilkan uang, jadi jangan berharap uang. However, evaluator dan top contributor akan ada di halaman [About](https://fajarnuha.github.io/kumlaude/about). Jadi berlomba-lombalah!
+> Pahala insyaaAllah, karena ini termasuk amalan *ilmu yang bermanfaat* (setiap kali dibaca orang lain). Uang ga ada. However, evaluator dan top contributor akan ada di halaman [About](https://fajarnuha.github.io/kumlaude/about). Jadi berlomba-lombalah!
 <hr>
 
 ## Content Style Guide
