@@ -9,7 +9,7 @@ cover: "/img/colaboration.jpg"
 <hr>
 
 ## Konten 
-Semua konten-konten disini adalah hasil kolaborasi penulisan mahasiswa-mahasiswa ilmu komputer. Semua orang bisa mengajukan usulan penulisan dengan pull-request(PR), dan akan di review oleh evaluator repository ini, jika kiranya bermanfaat, usulan akan diterima dan di publish ke website Kumlaude
+Semua konten-konten disini adalah hasil kolaborasi penulisan mahasiswa-mahasiswa ilmu komputer. Semua orang bisa mengajukan usulan penulisan dengan pull-request(PR), dan akan di review oleh maintainer repository ini, jika kiranya bermanfaat, usulan akan diterima dan di publish ke website Kumlaude
 
 Konten bisa berisi tulisan, gambar, links, video, tips-trick, review dosen, info ujian, code, atau apapun asal bermanfaat
 
@@ -18,12 +18,12 @@ Konten tidak harus yang panjang dan ribet. Hanya 1-2 baris boleh asalkan bermanf
 Kamu boleh nambah tulisan di artikel yang sudah ada, atau bisa juga buat konten/folder/topic jika belum ada. Tinggal PR aja!
 <hr>
 
-## Siapa yang boleh kontribusi?
+## Siapa saja yang berkolaborasi disini?
 Semua orang, tapi ada 4 kategori orang di project ini:
 1. User : semua mahasiswa ilmu komputer yang ingin belajar biar cumlaude
-2. Content Contributor : semua mahasiswa yang ingin menulis hal yg bermanfaat disini
-3. Developer Contributor : mahasiswa yang ingin membuat website ini berjalan dan beraparas lebih keren
-4. Evaluator : mahasiswa yang ingin mengevaluasi PR
+2. Content Contributor : semua mahasiswa yang menulis hal yg bermanfaat disini
+3. Code Contributor : mahasiswa yang membuat website ini berjalan dan beraparas lebih keren
+4. Maintainers : mahasiswa yang mengevaluasi PR dan maintain website
 
 <hr>
 
@@ -58,7 +58,7 @@ more on [Pull Request](https://github.com/Roshanjossey/first-contributions)
 <hr>
 
 ## Rewards
-> Pahala insyaaAllah, karena ini termasuk amalan *ilmu yang bermanfaat* (setiap kali dibaca orang lain). Uang ga ada. However, evaluator dan top contributor akan ada di halaman [About](https://fajarnuha.github.io/kumlaude/about). Jadi berlomba-lombalah!
+> Pahala insyaaAllah, karena ini termasuk amalan *ilmu yang bermanfaat* (setiap kali dibaca orang lain). Uang ga ada. However, maintainers dan top contributor akan ada di halaman [About](https://fajarnuha.github.io/kumlaude/about). Jadi berlomba-lombalah!
 <hr>
 
 ## Content Style Guide
