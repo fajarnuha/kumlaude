@@ -45,7 +45,7 @@ class PostPreview extends Component {
         <CardTitle
           expander
           avatar={<Avatar icon={<FontIcon iconClassName="fa fa-calendar" />} />}
-          title={`Published on ${postInfo.date}`}
+          title={`Modified on ${postInfo.date}`}
           subtitle={`${postInfo.timeToRead} min read`}
         />
 

@@ -52,6 +52,8 @@ Ada 2 cara kontribusi:<br>
 5. Commit changes di lokal dulu dengan `git commit -m "SHORT MESSAGE"`. Push ke remote `git push origin NEW-BRANCH-NAME`
 6. Ke repo kamu di Github terus open PR
 
+more on [Pull Request](https://github.com/Roshanjossey/first-contributions)
+
 <hr>
 
 ## Rewards
