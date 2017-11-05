@@ -25,7 +25,7 @@ export default Index;
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(limit: 3, sort: {fields: [wordCount___words], order: DESC}) {
+    allMarkdownRemark(limit: 3, sort: {fields: [fields___modifiedTime], order: DESC}) {
       edges {
         node {
           fields {
