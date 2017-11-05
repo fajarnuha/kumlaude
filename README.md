@@ -87,4 +87,12 @@ cover: "http://dennydio.staf.akprind.ac.id/wp/wp-content/uploads/2017/09/images.
 ## Developer Guide
 You are more than welcome to make this site better/prettier
 
+In this repo, we learn:
 
+- Gatsby JS
+- JS Components
+- GraphQL
+- Markdown
+- SCSS
+- Git
+- Travis CI

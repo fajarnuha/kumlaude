@@ -23,10 +23,11 @@ class About extends Component {
               </p>
               <ul>
                 <li>Catatan</li>
-                <li>UTS</li>
-                <li>UAS</li>
+                <li>UTS/UAS dan solusinya</li>
+                <li>Codes</li>
                 <li>Materi</li>
-                <li>Tips-tips terselubung</li>
+                <li>Tips and trick</li>
+                <li>Info Dosen</li>
                 <li>dll</li>
               </ul>
               <h3>Contribute</h3>

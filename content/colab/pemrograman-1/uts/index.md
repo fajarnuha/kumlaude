@@ -1,5 +1,5 @@
 ---
-title: UTS Genetic Algorithms
+title: UTS Pemrograman 1
 ---
 
 
