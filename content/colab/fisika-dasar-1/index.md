@@ -1,6 +1,6 @@
 ---
 title: "Fisika Dasar I"
-cover: "https://id-live-01.slatic.net/p/8/erlangga-soft-cover-buku-merah-fisika-dasar-jl1-ed7-halliday-1450708017-588491-1.jpg"
+cover: "http://i.imgur.com/vgWtgYj.jpg"
 ---
 This is a stub. Help our community expand it.
 
