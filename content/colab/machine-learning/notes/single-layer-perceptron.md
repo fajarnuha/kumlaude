@@ -1,5 +1,5 @@
 ---
-title: Singel Layer Perceptron
+title: Singel Layer Perceptron (SGD)
 ---
 
 ```python
