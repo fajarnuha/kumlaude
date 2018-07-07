@@ -56,6 +56,7 @@ export default class MainLayout extends React.Component {
   }
 }
 
+/* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query dirQuery {
     allDirectory {
