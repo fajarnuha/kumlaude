@@ -1,7 +1,6 @@
 ---
-title: "Notes Fuzzy Logic"
+title: "Road to S.Kom."
 ---
-
 This is a stub. Help our community expand it.
 
 [Github](https://github.com/fajarnuha/kumlaude)
