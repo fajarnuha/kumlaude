@@ -1,5 +1,4 @@
 module.exports = {
-  blogPostDir: "colab", // The name of directory that contains your posts.
   siteTitle: "Kumlaude", // Site title.
   siteTitleAlt: "Cumlaude Ilmu Komputer", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
