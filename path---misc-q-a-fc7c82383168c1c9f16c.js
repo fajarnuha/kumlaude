@@ -1,0 +1,2 @@
+webpackJsonp([0x5b642075053c],{719:function(e,t){e.exports={data:{markdownRemark:{html:"<p><strong>Q:</strong>\n<strong>A:</strong></p>",timeToRead:1,excerpt:"Q:  \n A:",frontmatter:{title:"Question and Answer Forum",cover:null},fields:{nextTitle:"Pemrograman 1",nextSlug:"/pemrograman-1/",prevTitle:"Misc",prevSlug:"/misc/",slug:"/misc/q&a/",modifiedTime:"9-6-2018, 1:38"}},allDirectory:null,allFile:null},pathContext:{slug:"/misc/q&a/",slugTrim:"misc/q&a"}}}});
+//# sourceMappingURL=path---misc-q-a-fc7c82383168c1c9f16c.js.map

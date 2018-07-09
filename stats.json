@@ -1,0 +1,180 @@
+{
+  "assetsByChunkName": {
+    "path---genetic-algorithms-uts": [
+      "path---genetic-algorithms-uts-59ff4f45de216cef0903.js",
+      "path---genetic-algorithms-uts-59ff4f45de216cef0903.js.map"
+    ],
+    "path---pemrograman-1": [
+      "path---pemrograman-1-201d9dc46476540c8610.js",
+      "path---pemrograman-1-201d9dc46476540c8610.js.map"
+    ],
+    "path---pemrograman-1-uts": [
+      "path---pemrograman-1-uts-809425ebaa160a9662cc.js",
+      "path---pemrograman-1-uts-809425ebaa160a9662cc.js.map"
+    ],
+    "path---jaringan-saraf-tiruan-uas": [
+      "path---jaringan-saraf-tiruan-uas-a28bf692fc6bcd914467.js",
+      "path---jaringan-saraf-tiruan-uas-a28bf692fc6bcd914467.js.map"
+    ],
+    "path---data-mining-uas": [
+      "path---data-mining-uas-7959477a18c459a65daa.js",
+      "path---data-mining-uas-7959477a18c459a65daa.js.map"
+    ],
+    "path---jaringan-saraf-tiruan-uts": [
+      "path---jaringan-saraf-tiruan-uts-aeb014a0cf8f4e3f457f.js",
+      "path---jaringan-saraf-tiruan-uts-aeb014a0cf8f4e3f457f.js.map"
+    ],
+    "path---": [
+      "path----8464612a0b9c905163b7.js",
+      "path----8464612a0b9c905163b7.js.map"
+    ],
+    "path---distributed-algorithm": [
+      "path---distributed-algorithm-d9625fec3b9d62afa2c2.js",
+      "path---distributed-algorithm-d9625fec3b9d62afa2c2.js.map"
+    ],
+    "path---data-mining-notes": [
+      "path---data-mining-notes-70b3cb732dc78fcecf72.js",
+      "path---data-mining-notes-70b3cb732dc78fcecf72.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-77092b6b6a707eef0cbe.js",
+      "component---src-layouts-index-jsx-77092b6b6a707eef0cbe.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---misc-q-a": [
+      "path---misc-q-a-fc7c82383168c1c9f16c.js",
+      "path---misc-q-a-fc7c82383168c1c9f16c.js.map"
+    ],
+    "path---data-mining": [
+      "path---data-mining-0297c427dc4d414d7465.js",
+      "path---data-mining-0297c427dc4d414d7465.js.map"
+    ],
+    "path---machine-learning-notes-softmax": [
+      "path---machine-learning-notes-softmax-55d4c1a08d55a7b4658c.js",
+      "path---machine-learning-notes-softmax-55d4c1a08d55a7b4658c.js.map"
+    ],
+    "path---guides": [
+      "path---guides-6f756dc77c9f2214879d.js",
+      "path---guides-6f756dc77c9f2214879d.js.map"
+    ],
+    "path---fisika-dasar-1": [
+      "path---fisika-dasar-1-92f56fa0a4f169a292f0.js",
+      "path---fisika-dasar-1-92f56fa0a4f169a292f0.js.map"
+    ],
+    "path---genetic-algorithms-uas": [
+      "path---genetic-algorithms-uas-d6cff0508b079a0d6921.js",
+      "path---genetic-algorithms-uas-d6cff0508b079a0d6921.js.map"
+    ],
+    "path---index": [
+      "path---index-ad5c89736680514a347c.js",
+      "path---index-ad5c89736680514a347c.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-1a9262e1a7bea29e6a9a.js",
+      "component---src-pages-about-jsx-1a9262e1a7bea29e6a9a.js.map"
+    ],
+    "path---fisika-dasar-1-uts": [
+      "path---fisika-dasar-1-uts-a49190edaf3b30eea0ca.js",
+      "path---fisika-dasar-1-uts-a49190edaf3b30eea0ca.js.map"
+    ],
+    "path---data-mining-uts": [
+      "path---data-mining-uts-72aba1541f48587a6281.js",
+      "path---data-mining-uts-72aba1541f48587a6281.js.map"
+    ],
+    "path---misc": [
+      "path---misc-196fb385e610f2ccb049.js",
+      "path---misc-196fb385e610f2ccb049.js.map"
+    ],
+    "commons": [
+      "commons-4cc14fd71126cb6dfd54.js",
+      "build-js-styles.css",
+      "commons-4cc14fd71126cb6dfd54.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---machine-learning-notes-mlp-backprop": [
+      "path---machine-learning-notes-mlp-backprop-18178b252f63c600f65e.js",
+      "path---machine-learning-notes-mlp-backprop-18178b252f63c600f65e.js.map"
+    ],
+    "path---jaringan-saraf-tiruan": [
+      "path---jaringan-saraf-tiruan-1956667d3e4957816026.js",
+      "path---jaringan-saraf-tiruan-1956667d3e4957816026.js.map"
+    ],
+    "path---pemrograman-1-uas": [
+      "path---pemrograman-1-uas-eb29f21558320701d424.js",
+      "path---pemrograman-1-uas-eb29f21558320701d424.js.map"
+    ],
+    "path---fisika-dasar-1-uas": [
+      "path---fisika-dasar-1-uas-214bf0d11c7dfeda6309.js",
+      "path---fisika-dasar-1-uas-214bf0d11c7dfeda6309.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---road-2-skom": [
+      "path---road-2-skom-c9aeef5e2318e6a7d70d.js",
+      "path---road-2-skom-c9aeef5e2318e6a7d70d.js.map"
+    ],
+    "path---machine-learning-notes-single-layer-perceptron": [
+      "path---machine-learning-notes-single-layer-perceptron-d431a827372284d9a6c8.js",
+      "path---machine-learning-notes-single-layer-perceptron-d431a827372284d9a6c8.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-b83f5873cf2a125a7fe2.js",
+      "component---src-templates-post-jsx-b83f5873cf2a125a7fe2.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-45d3b95231ac57611626.js",
+      "component---src-pages-index-jsx-45d3b95231ac57611626.js.map"
+    ],
+    "path---machine-learning-notes": [
+      "path---machine-learning-notes-07a1cfca8770821a7cd5.js",
+      "path---machine-learning-notes-07a1cfca8770821a7cd5.js.map"
+    ],
+    "path---jaringan-saraf-tiruan-notes": [
+      "path---jaringan-saraf-tiruan-notes-9b3a08f5a4a9d35c4a86.js",
+      "path---jaringan-saraf-tiruan-notes-9b3a08f5a4a9d35c4a86.js.map"
+    ],
+    "path---genetic-algorithms": [
+      "path---genetic-algorithms-5903a1dd0aef97c5d61c.js",
+      "path---genetic-algorithms-5903a1dd0aef97c5d61c.js.map"
+    ],
+    "path---tugas-akhir": [
+      "path---tugas-akhir-8bd6f6306f4a22c4cee2.js",
+      "path---tugas-akhir-8bd6f6306f4a22c4cee2.js.map"
+    ],
+    "app": [
+      "app-a3632845dfab568867f3.js",
+      "build-js-styles.css",
+      "app-a3632845dfab568867f3.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---machine-learning": [
+      "path---machine-learning-2f2927538c059e284854.js",
+      "path---machine-learning-2f2927538c059e284854.js.map"
+    ],
+    "path---pemrograman-1-notes": [
+      "path---pemrograman-1-notes-08814160e8ecfaa83d03.js",
+      "path---pemrograman-1-notes-08814160e8ecfaa83d03.js.map"
+    ],
+    "path---distributed-algorithm-uts": [
+      "path---distributed-algorithm-uts-04a080b5cd4933fb6a11.js",
+      "path---distributed-algorithm-uts-04a080b5cd4933fb6a11.js.map"
+    ],
+    "path---machine-learning-notes-softmax-tf": [
+      "path---machine-learning-notes-softmax-tf-892435dfd84428ee0046.js",
+      "path---machine-learning-notes-softmax-tf-892435dfd84428ee0046.js.map"
+    ],
+    "path---machine-learning-uts": [
+      "path---machine-learning-uts-f1adca41a6664231129f.js",
+      "path---machine-learning-uts-f1adca41a6664231129f.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
